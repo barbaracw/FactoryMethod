@@ -1,0 +1,2 @@
+# FactoryMethod
+Método fabrica 
