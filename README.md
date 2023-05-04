@@ -1,2 +1,2 @@
 # FactoryMethod
-Método fabrica 
+Exemplo do padrão de projeto criacional Factory Method.
